@@ -1,17 +1,17 @@
 # Site settings
-title: AlbertoPC
-description: A blog about lorem ipsum dolor sit amet
+title: Alberto Pérez Cano
+description: Web Personal
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://sialed.github.io"
 
 # User settings
 username: Alberto Pérez Cano
 user_description: Actualmente poseo el título de técnico superior en Administración de Sistemas Informáticos en Red. Me defino como una persona curiosa, con ganas de aprender, con capacidad para trabajar en equipo y dirigir a un grupo de personas. Otras de mis aptitudes es el saber escuchar, el orden y el intentar hacer las cosas bien. Son mis claves para poder desarrollar una buena labor. Soy un apasionado de las nuevas tecnologías y actualmente busco un proyecto que me permita seguir aprendiendo día a día y tener un crecimiento profesional y personal.
 user_title: SysAdmin
-email: 
-twitter_username:
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+email: albertopc92@gmail.com
+twitter_username: @Albertopc92
+github_username:  albertopc92
+#gplus_username:
 
 # Google-analytics
 google-analytics:
